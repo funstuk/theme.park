@@ -72,7 +72,7 @@ body::before {
     height: 100%;
     width: 100%;
     overflow: hidden;
-    animation: var(--body-animation) 0.01s infinite;
+    animation: none;
     pointer-events: none;
 }
 /* CRT BACKGROUND WITH LINES*/
